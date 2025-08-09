@@ -438,7 +438,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* padding: 0vw 5vw; */
+    padding: 0vw 8vw;
     font-family: a;
     height: 33.3%;
     width: 100%;
