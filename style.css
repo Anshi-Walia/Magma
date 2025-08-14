@@ -67,10 +67,11 @@ body {
 }
 .bottom-page1>h1{
     font-family: a;
-    font-size: 5vw;
+    font-size: 3vw;
     font-weight: 100;
-    line-height: 1;
+    line-height: 1.5;
     color: #fff;
+    margin-bottom: 20px;
 }
 .bottom-page1-inner{
     position: absolute;
